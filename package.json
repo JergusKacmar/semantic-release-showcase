@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-showcase",
-  "version": "1.1.0",
+  "version": "1.2.0-develop.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "branches": [
       "main",
       {
-        "name": "develop",
+        "name": "beta",
         "prerelease": true
       }
     ],

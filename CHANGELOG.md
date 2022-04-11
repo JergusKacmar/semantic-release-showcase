@@ -1,3 +1,10 @@
+# [1.0.0-develop.7](https://github.com/JergusKacmar/semantic-release-showcase/compare/v1.0.0-develop.6...v1.0.0-develop.7) (2022-04-11)
+
+
+### Features
+
+* add console.log 3 ([#13](https://github.com/JergusKacmar/semantic-release-showcase/issues/13)) ([e33900d](https://github.com/JergusKacmar/semantic-release-showcase/commit/e33900dca9a2d2fceee78de7f08b05c0c11c3a1c))
+
 # [1.0.0-develop.6](https://github.com/JergusKacmar/semantic-release-showcase/compare/v1.0.0-develop.5...v1.0.0-develop.6) (2022-04-11)
 
 

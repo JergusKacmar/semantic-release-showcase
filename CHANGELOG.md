@@ -1,3 +1,12 @@
+# [1.2.0-develop.2](https://github.com/JergusKacmar/semantic-release-showcase/compare/v1.2.0-develop.1...v1.2.0-develop.2) (2022-04-11)
+
+
+### Features
+
+* add new workflow ([#26](https://github.com/JergusKacmar/semantic-release-showcase/issues/26)) ([e626c63](https://github.com/JergusKacmar/semantic-release-showcase/commit/e626c63a52a543780ad4a79328cca2082e4dc640))
+* change workflow ([f4e4ee0](https://github.com/JergusKacmar/semantic-release-showcase/commit/f4e4ee085d9c7c777cc21d469b4da34ecd2992a7))
+* change workflow ([#22](https://github.com/JergusKacmar/semantic-release-showcase/issues/22)) ([e51858e](https://github.com/JergusKacmar/semantic-release-showcase/commit/e51858e4cf738995202735d5c7add0fc8bc571c1))
+
 # [1.2.0](https://github.com/JergusKacmar/semantic-release-showcase/compare/v1.1.1...v1.2.0) (2022-04-11)
 
 

@@ -1,5 +1,8 @@
-function add (a, b) {
-    return a + b
-  }
-  
-  module.exports = add
+function add(a, b) {
+  return a + b;
+}
+
+module.exports = add;
+
+console.log("1");
+console.log("2");

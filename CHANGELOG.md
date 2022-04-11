@@ -1,3 +1,10 @@
+# [1.1.0-develop.4](https://github.com/JergusKacmar/semantic-release-showcase/compare/v1.1.0-develop.3...v1.1.0-develop.4) (2022-04-11)
+
+
+### Features
+
+* add ([8e5a444](https://github.com/JergusKacmar/semantic-release-showcase/commit/8e5a44428efd22819ad565d26e9230b298aa9fc3))
+
 # [1.1.0-develop.3](https://github.com/JergusKacmar/semantic-release-showcase/compare/v1.1.0-develop.2...v1.1.0-develop.3) (2022-04-11)
 
 

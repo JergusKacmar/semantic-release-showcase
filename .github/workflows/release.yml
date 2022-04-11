@@ -3,7 +3,7 @@ name: Bump the semantic version
 on:
   push:
     branches:
-      - master
+      - main
       - develop
 
 jobs:

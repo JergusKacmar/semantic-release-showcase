@@ -39,6 +39,9 @@
   },
   "homepage": "https://github.com/JergusKacmar/semantic-release-showcase#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^9.0.1",
     "semantic-release": "^19.0.2"
   }
 }

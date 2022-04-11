@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-showcase",
-  "version": "0.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,20 @@
   },
   "author": "",
   "license": "ISC",
+  "release": {
+    "branches": [
+      "main",
+      {
+        "name": "develop",
+        "prerelease": true
+      }
+    ]
+  },
   "bugs": {
     "url": "https://github.com/JergusKacmar/semantic-release-showcase/issues"
   },
-  "homepage": "https://github.com/JergusKacmar/semantic-release-showcase#readme"
+  "homepage": "https://github.com/JergusKacmar/semantic-release-showcase#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
 }

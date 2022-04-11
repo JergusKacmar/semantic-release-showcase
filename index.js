@@ -5,3 +5,4 @@ function add(a, b) {
 module.exports = add;
 
 console.log("1");
+console.log("2");
